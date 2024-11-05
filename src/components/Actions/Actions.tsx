@@ -20,7 +20,7 @@ const ButtonLayout = styled(Icon)``;
 
 const ButtonMenu = styled(Icon)``;
 
-export default function Actions({ data }) {
+export const Actions = () => {
   return (
     <>
       <StyledActions>
@@ -59,4 +59,4 @@ export default function Actions({ data }) {
       </StyledActions>
     </>
   );
-}
+};

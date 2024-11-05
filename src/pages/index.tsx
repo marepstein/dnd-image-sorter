@@ -35,7 +35,7 @@ export default function Home() {
         <Intro>
           <Image src="/logo.svg" alt="Popsa" width="127" height="32" />
           <h1>Welcome to the React frontend test</h1>
-          <Link href="/testpage">
+          <Link href="/image-sorter">
             <a>Start test</a>
           </Link>
         </Intro>

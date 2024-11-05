@@ -1,0 +1,14 @@
+{
+  "semi": true,
+  "trailingComma": "es5",
+  "tabWidth": 2,
+  "importOrder": [
+    "^[a-zA-Z]",
+    "^components/(.*)$",
+    "^[./]"
+  ],
+  "importOrderSeparation": true,
+  "plugins": [
+    "prettier-plugin-organize-imports"
+  ]
+}

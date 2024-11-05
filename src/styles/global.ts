@@ -10,6 +10,10 @@ export const GlobalStyle = createGlobalStyle`
             color: black;
     }
 
+    body {
+      height: 100vh;
+    }
+
     a {
         color: inherit;
         text-decoration: none;
