@@ -1,7 +1,3 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
-
-# Popsa.com - React Frontend test skeleton
-
 ## Getting Started
 
 Node version used: v20.18.0.
